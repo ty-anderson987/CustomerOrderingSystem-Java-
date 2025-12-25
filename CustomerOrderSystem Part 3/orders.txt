@@ -1,0 +1,2 @@
+4487947616,C001,2025-11-13,1735.0,Mail,9465,iPad Pro|Thin sheet of glass computing device|800.0|700.0|1|2
+1196380972,C002,2025-11-13,2352.025,Mail,9090,Apple TV|Nice Tv hardware|170.0|150.0|1|1||MacBook Pro|Very fast productity laptop|2000.0|1800.0|1|1

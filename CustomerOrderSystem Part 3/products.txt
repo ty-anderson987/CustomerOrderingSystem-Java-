@@ -1,0 +1,4 @@
+iPad Pro|Thin sheet of glass computing device|800.0|700.0|1
+iPhone 17 Pro|Pro camera, pro phone, pro hardware|1100.0|1000.0|1
+MacBook Pro|Very fast productity laptop|2000.0|1800.0|1
+Apple TV|Nice Tv hardware|170.0|150.0|1
