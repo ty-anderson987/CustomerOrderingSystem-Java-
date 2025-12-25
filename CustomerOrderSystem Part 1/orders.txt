@@ -1,0 +1,7 @@
+2080700787,NateMok,2025-10-21,869.0,Mail,8535,iPad Pro|Thin sheet of glass computing device|800.0|700.0|1|1
+2319760117,NateMok,2025-10-21,2168.0,Mail,0114,MacBook Pro|Very fast productity laptop|2000.0|1800.0|1|1
+0635812847,1,2025-10-21,3900.0,Mail,3083,MacBook Pro|Very fast productity laptop|2000.0|1800.0|1|1||iPad Pro|Thin sheet of glass computing device|800.0|700.0|1|2
+2771354528,R11995090,2025-10-21,2925.75,Mail,5103,iPad Pro|Thin sheet of glass computing device|800.0|700.0|1|2||iPhone 17 Pro|Pro camera, pro phone, pro hardware|1100.0|1000.0|1|1
+6998447523,Mills123,2025-10-22,1193.75,Mail,4355,iPhone 17 Pro|Pro camera, pro phone, pro hardware|1100.0|1000.0|1|1
+5764624453,179943,2025-10-29,4333.0,Mail,2850,iPad Pro|Thin sheet of glass computing device|800.0|700.0|1|5
+8530731045,C12,2025-10-29,187.025,Mail,3634,Apple TV|Nice Tv hardware|170.0|150.0|1|1
